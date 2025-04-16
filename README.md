@@ -9,6 +9,7 @@
 
 ## 🔍 Pentest & Ferramentas
 - [x] Nmap
+  - [nmap series](https://youtube.com/playlist?list=PLBf0hzazHTGM8V_3OEKhvCM9Xah3qDdIx&si=sgfPvAWp7xlEjG6T)
 - [ ] Dirb / Gobuster
 - [ ] Nikto
 - [ ] Burp Suite
