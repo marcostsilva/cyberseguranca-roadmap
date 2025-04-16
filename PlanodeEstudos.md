@@ -63,6 +63,9 @@ Cada semana foca em 3 pilares:
 - [ ] Publicar no LinkedIn
 
 ---
+- [ ] Conteúdos para estudos
+  - [Vídeo aulas NetCat Test](https://www.youtube.com/watch?v=fZDmJG_tjnI&list=PLRwzTRKI2Ah8qKzA3f7n5GKva0B-sWhWt) 
+
 
 ## 🏁 Conclusão
 
