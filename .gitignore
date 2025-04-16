@@ -2,3 +2,22 @@ __pycache__/
 .log
 *.pyc
 .env
+# Ignora o ambiente virtual
+scripts/gobuster/venv
+
+# Arquivos de cache do Python
+./__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de log e temporários
+*.log
+*.tmp
+
+# Resultados gerados
+./scripts/gobuster/resultados/
+*.txt
+scripts/gobuster/venv/
+# Arquivos do sistema
+.DS_Store
+Thumbs.db

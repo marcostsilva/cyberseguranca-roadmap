@@ -3,6 +3,22 @@ import subprocess
 import argparse
 from colorama import Fore, Style, init
 
+"""
+Salve o script como subenum.py
+Dê permissão de execução: chmod +x subenum.py
+Instale as dependências: pip install colorama
+Exemplos de Uso:
+Com Gobuster:
+# python3 subenum.py -d exemplo.com -t gobuster -w wordlist.txt -o resultados.txt
+
+Com Dirb:
+# python3 subenum.py -d exemplo.com -t dirb -o resultados.txt
+
+Ajuda:
+# python3 subenum.py --help
+"""
+
+
 # Inicializa colorama para cores no terminal
 init()
 
