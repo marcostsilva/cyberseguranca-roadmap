@@ -19,7 +19,7 @@ Cada semana foca em 3 pilares:
 ### 🧠 Semana 1 – Fundamentos de Redes e Segurança
 - [x] Estudar modelo OSI, TCP/IP
 - [x] Conceitos de firewall, IDS/IPS, NAT, VPN
-- [x] Criar resumos no Notion/GitHub
+- [x] Criar resumos no GitHub
 
 ### 🧪 Semana 2 – Linux e Comandos de Pentest
 - [x] Fundamentos do terminal Linux
