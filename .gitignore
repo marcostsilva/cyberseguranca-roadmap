@@ -15,7 +15,6 @@ scripts/gobuster/venv
 *.tmp
 
 # Resultados gerados
-./scripts/gobuster/resultados/
 *.txt
 scripts/gobuster/venv/
 # Arquivos do sistema
