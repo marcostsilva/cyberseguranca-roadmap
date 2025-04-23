@@ -23,10 +23,10 @@
 - [ ] Escalada de privilégios (básico)
 
 ## 🏆 Certificações de Entrada
-- [ ] TryHackMe: PreSecurity
-- [ ] TryHackMe: Complete Beginner Path
 - [ ] CompTIA Security+ (teoria)
 - [ ] Exame do Security+
+- [ ] TryHackMe: PreSecurity
+- [ ] TryHackMe: Complete Beginner Path
 
 ## 📁 Relatórios e Portfólio
 - [x] Criar repositório GitHub
