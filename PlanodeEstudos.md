@@ -18,10 +18,10 @@ Cada semana foca em 3 pilares:
 
 ### 🧠 Semana 1 – Fundamentos de Redes e Segurança
 - [x] Estudar modelo OSI, TCP/IP
-- [x] Conceitos de firewall, IDS/IPS, NAT
-  - [Conceitos](arquivos/firewall.md)
-- [x] NMAP
-  - [nmap series](https://youtube.com/playlist?list=PLBf0hzazHTGM8V_3OEKhvCM9Xah3qDdIx&si=sgfPvAWp7xlEjG6T)
+- [x] Conceitos de firewall, IDS/IPS, NAT  
+👉🏻  [Conceitos](arquivos/firewall.md)
+- [x] NMAP  
+👉🏻  [nmap series](https://youtube.com/playlist?list=PLBf0hzazHTGM8V_3OEKhvCM9Xah3qDdIx&si=sgfPvAWp7xlEjG6T)
 - [x] Criar resumos no GitHub
 
 ### 🧪 Semana 2 – Linux e Comandos de Pentest
