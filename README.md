@@ -33,6 +33,6 @@
 - [ ] Relatório OWASP Juice Shop
 - [ ] Página pessoal/portfólio online
 
-[📅 Ver plano mensal com tarefas semanais](./PlanodeEstudos.md)
+[📅 Ver plano de estudos](./PlanodeEstudos.md)
 
 
