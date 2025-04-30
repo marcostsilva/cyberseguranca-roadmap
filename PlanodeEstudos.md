@@ -68,11 +68,12 @@ Cada semana foca em 3 pilares:
 - [ ] Escrever relatório e adicionar ao GitHub
 - [ ] Publicar no LinkedIn
 
----
-- [ ] Conteúdos para estudos
-  - [Vídeo aulas NetCat Test](https://www.youtube.com/watch?v=fZDmJG_tjnI&list=PLRwzTRKI2Ah8qKzA3f7n5GKva0B-sWhWt) 
+---  
 
-### [Professor Messer](arquivos/messer.md)
+ - # Conteúdos para estudos
+ - ## [Vídeo aulas NetCat Test](https://www.youtube.com/watch?v=fZDmJG_tjnI&list=PLRwzTRKI2Ah8qKzA3f7n5GKva0B-sWhWt) 
+
+ - ## [Playlist Professor Messer](arquivos/messer.md)
 
 
 ## 🏁 Conclusão
