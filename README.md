@@ -1,6 +1,8 @@
 # cyberseguranca-roadmap
 # 🚀 Roteiro de Entrada em Cyber Segurança
 
+[📅 Ver plano de estudos](./PlanodeEstudos.md)
+
 ## ✅ Conhecimentos Iniciais
 - [x] Redes de Computadores
 - [x] Linux Básico
@@ -33,6 +35,6 @@
 - [ ] Relatório OWASP Juice Shop
 - [ ] Página pessoal/portfólio online
 
-[📅 Ver plano de estudos](./PlanodeEstudos.md)
+
 
 

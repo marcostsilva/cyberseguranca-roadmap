@@ -16,6 +16,7 @@ Cada semana foca em 3 pilares:
 
 ## 🗓️ Mês 1 – Fundamentos + Primeiros Labs
 
+
 ### 🧠 Semana 1 – Fundamentos de Redes e Segurança
 - [x] Estudar modelo OSI, TCP/IP
 - [x] Conceitos de firewall, IDS/IPS, NAT  
@@ -70,6 +71,8 @@ Cada semana foca em 3 pilares:
 ---
 - [ ] Conteúdos para estudos
   - [Vídeo aulas NetCat Test](https://www.youtube.com/watch?v=fZDmJG_tjnI&list=PLRwzTRKI2Ah8qKzA3f7n5GKva0B-sWhWt) 
+
+### [Professor Messesr](arquivos/messer.md)
 
 
 ## 🏁 Conclusão
